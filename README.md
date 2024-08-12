@@ -1,2 +1,2 @@
 # LEA
-Artículos cientificos de el Labororatorio de Ecología Acuática
+Artículos científicos del Laboratorio de Ecología Acuática
